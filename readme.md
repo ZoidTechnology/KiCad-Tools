@@ -1,4 +1,5 @@
 # KiCad Tools
+A collection of tools to help with importing and rendering KiCad PCBs in Blender.
 ## Installation
 From Blender's "Preferences > Add-ons" menu select "Install" then select "kicad_tools.py"
 ## Tools
